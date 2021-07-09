@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Pavel 1st Medicine
+email: admin@p1m.org
+url: https://p1m.org
+description: "P1M is an Open Science collaboration from Saint Petersburg, Russia. With its primary focus in orthopedic spine surgery and evidence synthesis, it is now running a range of research projects in medicine and beyond. Check GitHub for our porfolio and ORCID for the publication list. "
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,20 +10,16 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: P1M.ORG
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/drzhelnov
+  - title: orcid
+    url: https://orcid.org/0000-0003-2767-5123
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/p1m-ortho
 
 # Build settings
 markdown: kramdown
