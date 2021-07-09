@@ -1,2 +1,1 @@
-# p1m.github.io
-Pavel 1st Medicine Landing Page
+# Pavel 1st Medicine Official
