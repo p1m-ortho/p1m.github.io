@@ -7,7 +7,7 @@ description: "P1M is an Open Science collaboration from Saint Petersburg, Russia
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#487393'
 
 # Footer settings
 footer: P1M.ORG
