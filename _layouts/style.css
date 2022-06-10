@@ -1,2 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/grayscale.css %}
+
+section img {
+    width: 100%;
+}
