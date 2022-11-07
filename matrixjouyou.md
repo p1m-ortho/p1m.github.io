@@ -15,4 +15,4 @@ Everyone has their Character in a beautiful Matrix made of 2,136 [Jouyou](https:
 
 **Sentiment**. This has been assigned to each of the kanji individually based on the combined sentiment of its common meanings, from a set of [six basic emotions](https://en.wikipedia.org/wiki/Emotion#Basic_emotions): **Happy**, **Sad**, **Anger**, **Fear**, **Surprise**, and **Disgust**. They are apportioned approximately as 4:2:2:2:1:1. Around three fourths of the tokens have **Neutral** **Sentiment**. Tokens with different **Sentiment** have different background colors.
 
-A link to purchase will be available in June 2022.
+A link to purchase will be available soon.
