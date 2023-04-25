@@ -4,3 +4,8 @@
 section img {
     width: 100%;
 }
+
+ul#markdown-toc {
+    margin-bottom: 40px;
+    font-size: 18px;
+}

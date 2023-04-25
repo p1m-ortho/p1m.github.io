@@ -15,7 +15,6 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 
 **Table of Contents**
 
-
 * TOC
 {:toc}
 
