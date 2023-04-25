@@ -27,7 +27,7 @@ Everyone has their Character in a beautiful Matrix made of 2,136 [Jouyou](https:
 
 **Rarity**. This corresponds to the school year the kanji is taught in: **1–6** for primary school kanji (1,026 unique **Genesis Collection** tokens); **S** for secondary school kanji (1,110 **Genesis Collection** tokens). **H** for Hyougai is the highest **Rarity** so far (4 **Genesis Collection** tokens). **Rarity** is shown by the color of strokes.
 
-**Complexity**. This equals to the kanji stroke count. Median **Complexity** is 20.
+**Complexity**. This equals to the kanji stroke count. Median **Complexity** is 10.
 
 Data for both **Rarity** and **Complexity** were [downloaded](https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji) from the English Wikipedia on June 9, 2022. Subsequently, they were deduplicated and refined with the assistance of [ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes).
 
