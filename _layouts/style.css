@@ -5,7 +5,7 @@ section img {
     width: 100%;
 }
 
-ul#markdown-toc {
+ul {
     margin-bottom: 40px;
     font-size: 18px;
 }
