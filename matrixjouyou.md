@@ -20,7 +20,17 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 
 ## Summary
 
-Everyone has their Character in a beautiful Matrix made of 2,136 [Jouyou](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji) and certain [Hyougai](https://en.wikipedia.org/wiki/Hy%C5%8Dgai_kanji) kanji, with their own vibrant traits. At present, only unique, immutable **Genesis Collection** NFTs will be available. A link to purchase will be available soon.
+⚡ **Learn** the Japanese alphabet by owning these unique NFTs inspired by the iconic [The Matrix code](https://en.wikipedia.org/wiki/Matrix_digital_rain).
+
+⚡ **Choose** among 2,136 common-use characters that children are taught at school ([Jouyou Kanji]((https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji))) as well as certain uncommon characters ([Hyougai Kanji](https://en.wikipedia.org/wiki/Hy%C5%8Dgai_kanji)).
+
+⚡ **Filter** by school year (Rarity), number of strokes (Complexity), emotional tone (Sentiment), and use frequency (Popularity).
+
+⚡ **Collect** your favorite characters before someone else does!
+
+💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
+
+🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available. A link to purchase will be available soon.
 
 ## Traits
 
