@@ -8,6 +8,7 @@ section img {
 ul {
     margin-bottom: 40px;
     font-size: 18px;
+    list-style-type: none;
 }
 
 a {
