@@ -26,6 +26,8 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - ⚡ **Collect** your favorite characters before someone else does!
 - 💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
 - 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available. A link to purchase will be available soon.
+- 👋 Meanwhile, if you want to push the collection launch, you can get in touch with the developer via Twitter [@drzhelnov](https://twitter.com/drzhelnov) or donate:
+- 💎 Dev’s Ethereum (ERC-20) wallet: `0xd08aE02392331dDA3c29742f6802Ed420652D275`. We’ll hopefully make it into one of [Gitcoin](https://www.gitcoin.co/) rounds too!
 
 ## Traits
 
