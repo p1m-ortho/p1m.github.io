@@ -5,7 +5,7 @@ section img {
     width: 100%;
 }
 
-section ul {
+#standalone section ul {
     margin-bottom: 40px;
     font-size: 18px;
     list-style-type: none;
