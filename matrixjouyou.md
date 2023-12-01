@@ -9,10 +9,6 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 
 # Litepaper
 
-> **Note to Owners:** Matrix Jouyou NFT holders will receive exclusive access to learning resources dedicated to the kanji characters they own. These resources will feature the history of the particular kanji and the most popular words or phrases containing it that are in use today, with specific focus on uniting various meanings and readings into one logical narrative.
->
-> The roll-outs will start once a milestone of >20 token holders is reached and will prioritize older holders. Follow this page for release updates.
-
 **Table of Contents**
 
 * TOC
