@@ -23,7 +23,10 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - 💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
 - 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available. A link to purchase will be available soon.
 - 👋 Meanwhile, if you want to push the collection launch, you can get in touch with the developer via Twitter [@drzhelnov](https://twitter.com/drzhelnov) or donate:
-- 💎 Dev’s Ethereum (ERC-20) wallet: `0xd08aE02392331dDA3c29742f6802Ed420652D275`. The dev applied for seed funding from [Gitcoin Grants](https://www.gitcoin.co/) to the [GG18 Core Round](https://www.gitcoin.co/blog/announcing-gitcoin-grants-18) (Category: Web3 Community and Education), which took place in August 2023, but, unfortunately, was not approved. Please find attached the [GG18 Application Summary](#appendix-gg18-application-summary).
+
+💎 Dev’s Ethereum (ERC-20) wallet: <small>`0xd08aE02392331dDA3c29742f6802Ed420652D275`</small>
+
+The dev applied for seed funding from [Gitcoin Grants](https://www.gitcoin.co/) to the [GG18 Core Round](https://www.gitcoin.co/blog/announcing-gitcoin-grants-18) (Category: Web3 Community and Education), which took place in August 2023, but, unfortunately, was not approved. Please find attached the [GG18 Application Summary](#appendix-gg18-application-summary).
 
 ## Traits
 
