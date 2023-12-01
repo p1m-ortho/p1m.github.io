@@ -1,6 +1,6 @@
 ---
 title: Matrix Jouyou NFT Collection
-layout: standalone
+layout: matrixjouyou
 permalink: /matrixjouyou/
 description: Everyone has their Character in a beautiful Matrix made of 2,136 Jouyou and certain Hyougai kanji, with their own vibrant Rarity, Complexity, Sentiment, and Popularity.
 ---
