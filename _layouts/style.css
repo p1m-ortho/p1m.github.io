@@ -5,6 +5,10 @@ section img {
     width: 100%;
 }
 
+.intro {
+    background-image: none;
+}
+
 #matrixjouyou section ul {
     margin-bottom: 40px;
     font-size: 18px;
