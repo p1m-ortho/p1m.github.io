@@ -1,4 +1,4 @@
- <!-- jQuery Version 1.11.0 -->
+   <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
@@ -14,3 +14,13 @@
     <script src="{{ "/js/grayscale.js" | prepend: site.baseurl }}"></script>
 
     <script src="{{ "/js/holder.min.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google-analytics }}');
+   </script>
