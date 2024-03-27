@@ -21,12 +21,11 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - ⚡ **Filter** by school year (Rarity), number of strokes (Complexity), emotional tone (Sentiment), and use frequency (Popularity).
 - ⚡ **Collect** your favorite characters before someone else does!
 - 💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
-- 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available. A link to purchase will be available soon.
-- 👋 Meanwhile, if you want to push the collection launch, you can get in touch with the developer via Twitter [@drzhelnov](https://twitter.com/drzhelnov) or donate:
+- 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available.
+- <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launches on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)** 
+- 👋 Get in touch with the developer via Twitter [@drzhelnov](https://twitter.com/drzhelnov)
 
-💎 Dev’s Ethereum (ERC-20) wallet: <small>`0xd08aE02392331dDA3c29742f6802Ed420652D275`</small>
-
-The dev applied for seed funding from [Gitcoin Grants](https://www.gitcoin.co/) to the [GG18 Core Round](https://www.gitcoin.co/blog/announcing-gitcoin-grants-18) (Category: Web3 Community and Education), which took place in August 2023, but, unfortunately, was not approved. Please find attached the [GG18 Application Summary](#appendix-gg18-application-summary).
+<p style="padding: 20px;"><a href="#page-top"><button class="wallet-adapter-button wallet-adapter-button-trigger" role="link">Mint Your Character</button></a></p>
 
 ## Traits
 
@@ -41,6 +40,8 @@ Data for both **Rarity** and **Complexity** were [downloaded](https://en.wikiped
 **Popularity** is based on raw character occurence counts from the Japanese Wikipedia as [published](https://raw.githubusercontent.com/scriptin/kanji-frequency/7022fa929a7d58d33ee281e285ca9c94342faa0c/data/wikipedia_characters.csv) by Dmitry Shpika. **Popularity** varies from zero to 1.7M occurences, with a median of 8K occurences.
 
 ## Appendix. GG18 Application Summary
+
+The dev applied for seed funding from [Gitcoin Grants](https://www.gitcoin.co/) to the [GG18 Core Round](https://www.gitcoin.co/blog/announcing-gitcoin-grants-18) (Category: Web3 Community and Education), which took place in August 2023, but, unfortunately, was not approved. For transparency, the application summary is published here.
 
 ### Please explain how your project meets the round-specific eligibility criteria.
 
