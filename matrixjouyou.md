@@ -24,9 +24,10 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available.
 - <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launches on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)**
 - <a href="https://www.tensor.trade/trade/matrixjouyou" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/tensor.trade.svg" alt="Tensor Logo" /></a> Once some NFTs are minted, they might become listed for sale on [Tensor](https://www.tensor.trade/trade/matrixjouyou).
-- ✍ Token address: [FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL](https://solscan.io/token/FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL)
 - 🔥 **Read this [promo thread](https://twitter.com/drzhelnov/status/1773503577022939192) to learn how to participate in a limited-time airdrop offer!**
-- 👋 Get in touch with the developer <a href="https://twitter.com/drzhelnov" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/x.com.svg" alt="X (Twitter)" /></a> <a href="https://t.me/+IUSGihcpIts4ODE6" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/t.me.svg" alt="Telegram" /></a> <a href="mailto:admin@p1m.org" target="_blank">📧</a>
+- 👋 Get in touch with the dev <a href="https://twitter.com/drzhelnov" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/x.com.svg" alt="X (Twitter)" /></a> <a href="https://t.me/+IUSGihcpIts4ODE6" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/t.me.svg" alt="Telegram" /></a> <a href="mailto:admin@p1m.org" target="_blank">📧</a>
+
+Token address: <small><a href="https://solscan.io/token/FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL" target="_blank"><code>FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL</code></a></small>
 
 <p style="padding: 20px;"><a href="#page-top"><button class="wallet-adapter-button wallet-adapter-button-trigger" role="link">Mint Your Character</button></a></p>
 
