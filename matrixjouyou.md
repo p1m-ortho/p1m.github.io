@@ -22,7 +22,8 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - ⚡ **Collect** your favorite characters before someone else does!
 - 💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
 - 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available.
-- <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launches on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)** 
+- <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launches on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)**
+- <a href="https://www.tensor.trade/trade/matrixjouyou" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/tensor.trade.svg" alt="Tensor Logo" /></a> Once some NFTs are minted, they might become listed for sale on [Tensor](https://www.tensor.trade/trade/matrixjouyou).
 - 👋 Get in touch with the developer via Twitter [@drzhelnov](https://twitter.com/drzhelnov)
 
 <p style="padding: 20px;"><a href="#page-top"><button class="wallet-adapter-button wallet-adapter-button-trigger" role="link">Mint Your Character</button></a></p>
