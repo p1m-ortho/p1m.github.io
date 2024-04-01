@@ -28,7 +28,7 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - 🔥 **Read this [promo thread](https://twitter.com/drzhelnov/status/1773503577022939192) to learn how to participate in a limited-time airdrop offer!**
 - 👋 Get in touch with the dev <a href="https://twitter.com/drzhelnov" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/x.com.svg" alt="X (Twitter)" /></a> <a href="https://t.me/+IUSGihcpIts4ODE6" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/t.me.svg" alt="Telegram" /></a> <a href="mailto:admin@p1m.org" target="_blank">📧</a>
 
-Token address: <small><a href="https://solscan.io/token/FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL" target="_blank"><code>FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL</code></a></small>
+Matrix Jouyou Genesis Collection token address: <small><a href="https://solscan.io/token/FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL" target="_blank"><code>FAWYFuq23SUfr6oGJFTuYEVwaQqsSshD3Q8aUhyYdibL</code></a></small>
 
 <p style="padding: 20px;"><a href="#page-top"><button class="wallet-adapter-button wallet-adapter-button-trigger" role="link">Mint Your Character</button></a></p>
 
@@ -46,7 +46,7 @@ Data for both **Rarity** and **Complexity** were [downloaded](https://en.wikiped
 
 ## Mint pricing strategy
 
-As a utility NFT, the dev believes it is necessary to justify its initial pricing. The mint price is locked at **SOL 1**, which was equivalent to ~$200 (hereinafter in USD) at the time of launch. This amount was selected as a tradeoff between,
+As a utility NFT, the dev believes it is necessary to justify its initial pricing. The mint price is locked at **SOL 1** and can never be increased due to the price locking mechanism. This amount was equivalent to ~$200 (hereinafter in USD) at the time of launch and was selected as a tradeoff between,
 
 - affordability,
 - market prices, and
