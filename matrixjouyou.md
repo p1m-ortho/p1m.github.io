@@ -22,7 +22,8 @@ description: Everyone has their Character in a beautiful Matrix made of 2,136 Jo
 - ⚡ **Collect** your favorite characters before someone else does!
 - 💥 マトリックス・コードをモチーフにした常用漢字NFTを集め、好みの学年（レアリティ）、筆順（コンプレックス）、気分（センチメント）、頻度（ポピュラリティ）で日本語を学ぶことができます！ 
 - 🔔 At present, only unique, immutable **Genesis Collection** NFTs will be available.
-- <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launches on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)**
+- <a href="https://launchmynft.io/sol/3019" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/launchmynft.io.svg" alt="LaunchMyNFT Logo" /></a> **Matrix Jouyou [launched on Solana](https://launchmynft.io/sol/3019) on April 1st, 2024 (not an April Fools’ joke!)**
+- 🔒 Mint price is locked at SOL 1 ([check current rate](https://www.coingecko.com/en/coins/solana)). See [mint pricing strategy](#mint-pricing-strategy) below.
 - <a href="https://www.tensor.trade/trade/matrixjouyou" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/tensor.trade.svg" alt="Tensor Logo" /></a> Once some NFTs are minted, they might become listed for sale on [Tensor](https://www.tensor.trade/trade/matrixjouyou).
 - 🔥 **Read this [promo thread](https://twitter.com/drzhelnov/status/1773503577022939192) to learn how to participate in a limited-time airdrop offer!**
 - 👋 Get in touch with the dev <a href="https://twitter.com/drzhelnov" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/x.com.svg" alt="X (Twitter)" /></a> <a href="https://t.me/+IUSGihcpIts4ODE6" target="_blank"><img style="height: 22.5px; width: 22.5px;" src="/t.me.svg" alt="Telegram" /></a> <a href="mailto:admin@p1m.org" target="_blank">📧</a>
@@ -42,6 +43,18 @@ Data for both **Rarity** and **Complexity** were [downloaded](https://en.wikiped
 **Sentiment**. This has been assigned to each of the kanji individually based on the combined subjective sentiment of its common meanings, from a set of [six basic emotions](https://en.wikipedia.org/wiki/Emotion#Basic_emotions): **Happy**, **Sad**, **Anger**, **Fear**, **Surprise**, and **Disgust**. They are apportioned approximately as 4:2:2:2:1:1. Roughly half of the tokens have **Neutral** **Sentiment**. Tokens with different **Sentiment** have different background colors.
 
 **Popularity** is based on raw character occurrence counts from the Japanese Wikipedia as [published](https://raw.githubusercontent.com/scriptin/kanji-frequency/7022fa929a7d58d33ee281e285ca9c94342faa0c/data/wikipedia_characters.csv) by Dmitry Shpika. **Popularity** varies from zero to 1.7M occurrences, with a median of 8K occurrences.
+
+## Mint pricing strategy
+
+As a utility NFT, the dev believes it is necessary to justify its initial pricing. The mint price is locked at **SOL 1**, which was equivalent to ~$200 (hereinafter in USD) at the time of launch. This amount was selected as a tradeoff between,
+
+- affordability,
+- market prices, and
+- dev compensation for his time investment.
+
+The latter is estimated at 30 hours by the time of the launch, plus 15 hours on average per each of the [first 21](#page-top) educational materials to develop, for a total of at least 345 hours.
+
+At the dev’s usual hourly rate of $30 USD, a fair launch-time compensation equals $10,350. With a $200 mint price and at least 21 completed mints, minimum sales would amount to $4,200, incurring a potential loss of $6,150 for the dev. However, if some unique holders choose to mint several tokens per wallet and the SOL price continues to rise, this might offset the loss. At the current prices, each subsequent mint will support an additional 6.7 hours of educational material development, which also seems reasonable.
 
 ## Appendix. GG18 Application Summary
 
