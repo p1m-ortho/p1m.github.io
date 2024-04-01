@@ -54,7 +54,7 @@ As a utility NFT, the dev believes it is necessary to justify its initial pricin
 
 The latter is estimated at 30 hours by the time of the launch, plus 15 hours on average per each of the [first 21](#page-top) educational materials to develop, for a total of at least 345 hours.
 
-At the dev’s usual hourly rate of $30 USD, a fair launch-time compensation equals $10,350. With a $200 mint price and at least 21 completed mints, minimum sales would amount to $4,200, incurring a potential loss of $6,150 for the dev. However, if some unique holders choose to mint several tokens per wallet and the SOL price continues to rise, this might offset the loss. At the current prices, each subsequent mint will support an additional 6.7 hours of educational material development, which also seems reasonable.
+At the dev’s usual hourly rate of $30, a fair launch-time compensation equals $10,350. With a $200 mint price and at least 21 completed mints, minimum sales would amount to $4,200, incurring a potential loss of $6,150 for the dev. However, if some unique holders choose to mint several tokens per wallet and the SOL price continues to rise, this might offset the loss. At the current prices, each subsequent mint will support an additional 6.7 hours of educational material development, which also seems reasonable.
 
 ## Appendix. GG18 Application Summary
 
